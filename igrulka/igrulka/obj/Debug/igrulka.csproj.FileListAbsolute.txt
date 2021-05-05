@@ -1,0 +1,9 @@
+F:\Rider_sln\igrulka\igrulka\bin\Debug\igrulka.exe.config
+F:\Rider_sln\igrulka\igrulka\bin\Debug\igrulka.exe
+F:\Rider_sln\igrulka\igrulka\bin\Debug\igrulka.pdb
+F:\Rider_sln\igrulka\igrulka\obj\Debug\igrulka.csprojAssemblyReference.cache
+F:\Rider_sln\igrulka\igrulka\obj\Debug\igrulka.Properties.Resources.resources
+F:\Rider_sln\igrulka\igrulka\obj\Debug\igrulka.csproj.GenerateResource.cache
+F:\Rider_sln\igrulka\igrulka\obj\Debug\igrulka.csproj.CoreCompileInputs.cache
+F:\Rider_sln\igrulka\igrulka\obj\Debug\igrulka.exe
+F:\Rider_sln\igrulka\igrulka\obj\Debug\igrulka.pdb
