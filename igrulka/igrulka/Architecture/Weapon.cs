@@ -1,7 +1,10 @@
 ﻿namespace igrulka
 {
-    public enum Weapon
+    public abstract class Weapon
     {
-        //TODO...
+        public string Name;
+        public double Damage;
+        public double ProjectileSpeed;
+        public int DestructiveCapability;
     }
 }
